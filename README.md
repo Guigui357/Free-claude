@@ -15,6 +15,14 @@ A fully functional, polished, and self-hosted web interface for Anthropic's Clau
 
 *   ✅ **100% Free Access:** Leverages the free tier of Puter.js to interact with the Claude API at no cost.
 *   🎨 **Polished UI:** A clean, modern interface inspired by the official Claude UI, with light and dark mode support.
+*   ✏️ **Message Editing:** Edit your previous user messages to update questions and automatically rerun the conversation branch.
+*   ⭐ **Pinning & Starring:** Star/pin important messages in-chat, and pin conversations at the top of your history list.
+*   🔍 **In-Chat Search:** Quickly find any text in your current conversation with `Ctrl+F` and navigate matches.
+*   🖼️ **Paste & Drop Files:** Direct image pasting (`Ctrl+V`) from your clipboard and Drag & Drop file attachment support.
+*   📂 **All-Extension Reader:** View, attach, and process python, golang, markdown, typescript, and virtually any text or binary files.
+*   🔢 **Token Counter:** Keep track of estimated context token usage easily (toggle with `/tokens`).
+*   🗣️ **Slash Commands:** Command shortcuts like `/clear`, `/new`, `/summarize`, `/retry`, `/export`, and `/tokens` directly in the prompt input.
+*   👤 **Custom Username & Avatar:** Personalize your display name and avatar emoji directly from the interface.
 *   📄 **Artifact Generation:** Automatically renders code blocks into beautiful, interactive "artifact" canvases with syntax highlighting, copy, download, and even an HTML preview feature.
 *   💬 **Streaming Responses:** Watch Claude's responses appear in real-time, just like the official experience.
 *   📂 **Local Chat History:** Remembers your recent conversations in your browser's local storage.
